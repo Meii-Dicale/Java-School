@@ -9,6 +9,7 @@ public class SingletonData {
     private List<Matieres> matieres;
     private List<Classe> classes;
     private List<Evaluation> evaluations;
+    
 
 
 
